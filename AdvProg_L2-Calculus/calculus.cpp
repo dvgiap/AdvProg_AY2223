@@ -34,7 +34,6 @@ double mySin(double x)
     return sin(x);
 }
 
-
 /***
     Args:
         x (double): a number
@@ -46,7 +45,6 @@ double mySqrt(double x) {
         cout << "Invalid argument" << endl;
         exit(1);
     }
-
 
     return sqrt(x);
 }
